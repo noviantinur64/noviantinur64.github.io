@@ -15,9 +15,10 @@ h4 {
   text-align: center;
 }
 h2 {
-  border-style: solid;
+  border-style: double;
   border-color: red
-  background-color: rgba(255, 99, 71, 0.5);
+}
+h2 {background-color: rgba(255, 99, 71, 0.5);
   color:rgb(156, 6, 6) ;
   text-align: center;
 }
@@ -25,4 +26,9 @@ p {
   font-family: times new roman;
   font-size: 15px;
   color:#9c9e0b;
+}
+#borderimg2 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 50 round;
 }
