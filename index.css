@@ -1,12 +1,11 @@
 body {
   background-image: url(marble.jpg);
 } 
-#borderimg1 {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 50 round;
-}
-h1 {
+ img{border-radius:99em;
+   border:1px solid #089975;
+   box-shadow: 1px 1px 1px 4px rgb(255, 255, 255); 
+   padding : 3px; 
+   
   color: rgb(223, 65, 8);
   text-align: center;
 }
@@ -22,7 +21,7 @@ h2 {background-color: rgba(255, 99, 71, 0.5);
   color:rgb(156, 6, 6) ;
   text-align: center;
 }
-p {
+p1 {
   font-family: times new roman;
   font-size: 15px;
   color:#9c9e0b;
