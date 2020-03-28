@@ -4,7 +4,8 @@ body {
  gif{border-radius: 30%;
 }
  img{border-radius : 30%}
- img{border:5px round #009999;}
+ img{border:5px round;
+     color : coral }
 h1{
   color: rgb(223, 65, 8);
   text-align: center;
