@@ -1,11 +1,9 @@
 body {
   background-image: url(marble.jpg);
 } 
- img{border-radius:99em;
-   border:1px solid #089975;
-   box-shadow: 1px 1px 1px 4px rgb(255, 255, 255); 
-   padding : 3px; 
-   
+ img{border:5px round #009999;
+}
+h1{
   color: rgb(223, 65, 8);
   text-align: center;
 }
