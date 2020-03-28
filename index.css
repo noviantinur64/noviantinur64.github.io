@@ -4,7 +4,7 @@ body {
  gif{border-radius: 30%;
 }
  img{border-radius : 30%}
- img{border:5px round;
+ img{border:8px ;
      color : coral }
 h1{
   color: rgb(223, 65, 8);
@@ -22,9 +22,8 @@ h2 {background-color: rgba(255, 99, 71, 0.5);
   color:rgb(156, 6, 6) ;
   text-align: center;
 }
-p1 {
+p {
   font-family: times new roman;
   font-size: 15px;
-  font-style : strong;
   color:#9c9e0b;
 }
