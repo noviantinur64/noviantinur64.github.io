@@ -1,7 +1,8 @@
 body {
   background-image: url(marble.jpg);
 } 
- img{border:5px round #009999;
+ gif{
+	border-radius: 30%;
 }
 h1{
   color: rgb(223, 65, 8);
@@ -22,10 +23,6 @@ h2 {background-color: rgba(255, 99, 71, 0.5);
 p1 {
   font-family: times new roman;
   font-size: 15px;
+  font-style : bold;
   color:#9c9e0b;
-}
-#borderimg2 {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 50 round;
 }
