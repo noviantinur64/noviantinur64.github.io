@@ -1,9 +1,10 @@
 body {
   background-image: url(marble.jpg);
 } 
- gif{
-	border-radius: 30%;
+ gif{border-radius: 30%;
 }
+ img{border-radius : 40px}
+ img{border:5px round #009999;}
 h1{
   color: rgb(223, 65, 8);
   text-align: center;
